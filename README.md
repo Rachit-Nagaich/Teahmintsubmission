@@ -40,4 +40,4 @@ This Android application allows users to search for GitHub repositories and view
 5. **Contributing Section**: Tailor it to your preferences regarding contributions.
 6. **License**: Make sure to include the correct license for your project.
 
-You can save this content in a `README.md` file in your project directory, and it will be displayed on your GitHub repository page. If you need any more help, feel free to ask!
+
